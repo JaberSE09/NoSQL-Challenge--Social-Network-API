@@ -1,6 +1,6 @@
 const { User, Thought } = require("../models");
 
-const usdrController = {
+const userController = {
     // get all pizzas
     getAllUser(req, res) {
       User.find({})
@@ -57,7 +57,7 @@ const usdrController = {
       User.findOneAndDelete({ _id: params.id })
         .then(response => res.json(response))
         .catch(err => res.json(err));
-    }
+    },
 
      // add friend
   addFriend({ params }, res) {
@@ -84,7 +84,7 @@ const usdrController = {
       { new: true }
     )
       .then((response) => {
-        if (!responsee) {
+        if (!response) {
           return res.status(404).json({ message: "No user with this id!" });
         }
         res.json(response);
@@ -98,5 +98,5 @@ const usdrController = {
 
   };
   
-  module.exports = pizzaController;
+  module.exports = userController;
   
