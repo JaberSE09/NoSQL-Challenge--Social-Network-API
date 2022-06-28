@@ -29,6 +29,12 @@ GET REQUESTS THOUGHTS/USERS
 
 https://user-images.githubusercontent.com/15232220/176277687-4ab270e9-edb9-457c-888a-c1ed3b04187b.mp4
 
+POST REQUEST THOUGHTS / USERS / REACTIONS / FRIENDS
+
+
+https://user-images.githubusercontent.com/15232220/176279051-93f2276b-6421-48a6-a977-740d0281c005.mp4
+
+
 
 
 
