@@ -34,20 +34,23 @@ POST REQUEST THOUGHTS / USERS / REACTIONS / FRIENDS
 
 https://user-images.githubusercontent.com/15232220/176279051-93f2276b-6421-48a6-a977-740d0281c005.mp4
 
+PUT AND DELETE THOUGHTS / USERS
+
+https://user-images.githubusercontent.com/15232220/176284809-08441ab3-041f-482d-9f4c-3c7245f8f0ff.mp4
+
+REACTIONS AND FRIENDS POST / DELETE
 
 
+https://user-images.githubusercontent.com/15232220/176306940-7902fc5f-8e2b-4f04-aba2-5d7e4fe9d6f5.mp4
 
 
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Sajid Jaber
 
 ## License
+
 
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
