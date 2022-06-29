@@ -42,11 +42,9 @@ http://localhost:3001
 
 GET REQUESTS THOUGHTS/USERS
 
-
 https://user-images.githubusercontent.com/15232220/176277687-4ab270e9-edb9-457c-888a-c1ed3b04187b.mp4
 
 POST REQUEST THOUGHTS / USERS / REACTIONS / FRIENDS
-
 
 https://user-images.githubusercontent.com/15232220/176279051-93f2276b-6421-48a6-a977-740d0281c005.mp4
 
@@ -56,7 +54,6 @@ https://user-images.githubusercontent.com/15232220/176284809-08441ab3-041f-482d-
 
 REACTIONS AND FRIENDS POST / DELETE
 
-
 https://user-images.githubusercontent.com/15232220/176306940-7902fc5f-8e2b-4f04-aba2-5d7e4fe9d6f5.mp4
 
 ## Credits
@@ -64,7 +61,8 @@ https://user-images.githubusercontent.com/15232220/176306940-7902fc5f-8e2b-4f04-
 Sajid Jaber
 
 ## License
-\MIT License
+
+MIT License
 
 Copyright (c) [2022] [Sajid Jaber]
 
