@@ -37,7 +37,7 @@ npm start
 http://localhost:3001
 
 ```
-g
+
 ## Usage
 
 GET REQUESTS THOUGHTS/USERS
